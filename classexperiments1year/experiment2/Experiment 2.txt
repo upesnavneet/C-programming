@@ -1,0 +1,3 @@
+Experiment 2
+i) wap in c to calculate the are and perimeter of a rectangle based on the length and width
+ii) 

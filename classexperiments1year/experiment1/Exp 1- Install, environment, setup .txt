@@ -1,0 +1,5 @@
+Exp 1- Install, environment, setup and starting with c
+i) wap to print your name
+ii) wap to print the address in multiple lines(new line)
+iii) wap tht prompts the users to enter their name and their age
+iv) wap to input two numbers 
